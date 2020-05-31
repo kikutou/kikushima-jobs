@@ -1,1 +1,1 @@
-# kikushima-jpbs
+# kikushima-jobs
