@@ -1,0 +1,41 @@
+#jobs .badge-pill {
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    margin-right: 0.6em;
+}
+
+#jobs .collapse-detail {
+    padding: 8px;
+}
+
+#jobs .job-title {
+    margin-top: 12px;
+}
+
+#jobs .job-tag-list {
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+
+#jobs p.excerpt {
+    margin-bottom: 8px;
+}
+
+#jobs ol.carousel-indicators {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+#jobs a.carousel-control-next, a.carousel-control-prev {
+    bottom: 80px;
+}
+
+@media (max-width: 767.98px) {
+    #jobs ol.carousel-indicators {
+        display: flex;
+    }
+}
+
+#jobs ol.carousel-indicators li {
+    width: 5em;
+}
